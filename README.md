@@ -17,79 +17,79 @@ Gerenciamento de Contas:
 - Melhores práticas para gerenciamento de permissões e grupos.
 
 
-Autenticação e Autorização:
+- Autenticação e Autorização:
 
 
-Métodos de autenticação (senhas fortes, autenticação multifator).
+- Métodos de autenticação (senhas fortes, autenticação multifator).
 
 
-Estruturação de políticas de autorização (perfis de acesso, controle de acesso baseado em funções).
+- Estruturação de políticas de autorização (perfis de acesso, controle de acesso baseado em funções).
 
 
-Políticas de Senhas:
+- Políticas de Senhas:
 
 
-Regras para criação de senhas seguras.
+- Regras para criação de senhas seguras.
 
 
-Procedimentos para alteração e recuperação de senhas.
+- Procedimentos para alteração e recuperação de senhas.
 
 
 3. Segurança da Informação
 Controle de Acesso:
 
 
-Implementação de controle de acesso físico e lógico.
+- Implementação de controle de acesso físico e lógico.
 
 
-Políticas de least privilege (privilégio mínimo).
+- Políticas de least privilege (privilégio mínimo).
 
 
-Proteção de Dados:
+- Proteção de Dados:
 
 
-Técnicas de criptografia e proteção de dados sensíveis.
+- Técnicas de criptografia e proteção de dados sensíveis.
 
 
-Práticas de backup e recuperação de dados.
+- Práticas de backup e recuperação de dados.
 
 
-Monitoramento e Auditoria:
+- Monitoramento e Auditoria:
 
 
-Ferramentas e técnicas para monitoramento de atividades.
+- Ferramentas e técnicas para monitoramento de atividades.
 
 
-Auditoria de logs e rastreamento de eventos de segurança.
+- Auditoria de logs e rastreamento de eventos de segurança.
 
 
 4. Segurança em Aplicações Web
 Prevenção de Vulnerabilidades:
 
 
-Identificação e mitigação de vulnerabilidades comuns (SQL Injection, XSS, CSRF).
+- Identificação e mitigação de vulnerabilidades comuns (SQL Injection, XSS, CSRF).
 
 
-Ferramentas para escaneamento de segurança.
+- Ferramentas para escaneamento de segurança.
 
 
-Desenvolvimento Seguro:
+- Desenvolvimento Seguro:
 
 
-Princípios de desenvolvimento seguro (OWASP Top 10).
+- Princípios de desenvolvimento seguro (OWASP Top 10).
 
 
-Adoção de práticas de Secure Coding.
+- Adoção de práticas de Secure Coding.
 
 
 5. Conclusão
 Importância da Continuidade:
 
 
-A necessidade de atualizações e revisões constantes.
+- A necessidade de atualizações e revisões constantes.
 
 
-Envolvimento contínuo da equipe e treinamento em segurança.
+- Envolvimento contínuo da equipe e treinamento em segurança.
 
 
 6. Referências
