@@ -96,8 +96,9 @@ Importância da Continuidade:
 Lista de livros, artigos e outros recursos utilizados para a elaboração do portfólio.
 
 Como Usar
-Passo 1: Crie um repositório no GitHub com um nome sugestivo, como gestao-usuarios-seguranca.
 
-Passo 2: Estruture o repositório em pastas correspondentes a cada seção do portfólio.
+- Passo 1: Crie um repositório no GitHub com um nome sugestivo, como gestao-usuarios-seguranca.
 
-Passo 3: Preencha cada pasta com documentos detalhando as práticas, políticas e exemplos mencionados no esboço.
+- Passo 2: Estruture o repositório em pastas correspondentes a cada seção do portfólio.
+
+- Passo 3: Preencha cada pasta com documentos detalhando as práticas, políticas e exemplos mencionados no esboço.
