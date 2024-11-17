@@ -1,10 +1,11 @@
 Portfólio de Práticas de Gestão de Usuários e Segurança
 
-1. Introdução
-Objetivo: Este portfólio tem como objetivo apresentar as melhores práticas de gestão de usuários e segurança em ambientes corporativos e de desenvolvimento de software.
+1. Introdução:
+   
+- Objetivo: Este portfólio tem como objetivo apresentar as melhores práticas de gestão de usuários e segurança em ambientes corporativos e de desenvolvimento de software.
 
 
-Visão Geral: Uma breve descrição da importância da gestão de usuários e da segurança da informação.
+- Visão Geral: Uma breve descrição da importância da gestão de usuários e da segurança da informação.
 
 
 2. Gestão de Usuários
@@ -92,10 +93,10 @@ Importância da Continuidade:
 - Envolvimento contínuo da equipe e treinamento em segurança.
 
 
-6. Referências
+6. Referências:
 Lista de livros, artigos e outros recursos utilizados para a elaboração do portfólio.
 
-Como Usar
+Como Usar:
 
 - Passo 1: Crie um repositório no GitHub com um nome sugestivo, como gestao-usuarios-seguranca.
 
